@@ -1,0 +1,5 @@
+large-file-1.random filter=lfs diff=lfs merge=lfs -text
+large-file-2.random filter=lfs diff=lfs merge=lfs -text
+large-file-3.random filter=lfs diff=lfs merge=lfs -text
+large-file-4.random filter=lfs diff=lfs merge=lfs -text
+large-file-5.random filter=lfs diff=lfs merge=lfs -text
